@@ -1,0 +1,7 @@
+c:\users\jeferrie\Source\Repos\BinaryTreeMerge\BinaryTreeMerge\bin\Debug\BinaryTreeMerge.exe.config
+c:\users\jeferrie\Source\Repos\BinaryTreeMerge\BinaryTreeMerge\bin\Debug\BinaryTreeMerge.exe
+c:\users\jeferrie\Source\Repos\BinaryTreeMerge\BinaryTreeMerge\bin\Debug\BinaryTreeMerge.pdb
+c:\users\jeferrie\Source\Repos\BinaryTreeMerge\BinaryTreeMerge\obj\Debug\BinaryTreeMerge.csprojResolveAssemblyReference.cache
+c:\users\jeferrie\Source\Repos\BinaryTreeMerge\BinaryTreeMerge\obj\Debug\BinaryTreeMerge.csproj.CoreCompileInputs.cache
+c:\users\jeferrie\Source\Repos\BinaryTreeMerge\BinaryTreeMerge\obj\Debug\BinaryTreeMerge.exe
+c:\users\jeferrie\Source\Repos\BinaryTreeMerge\BinaryTreeMerge\obj\Debug\BinaryTreeMerge.pdb
